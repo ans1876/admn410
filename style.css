@@ -8,6 +8,7 @@
 }
 body {
   font-family: 'lato';
+  background-image:url(white.jpg);
 }
 .display {
   width: 1200px;
